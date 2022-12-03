@@ -25,11 +25,13 @@ This also added an enormous improvement. Whilst the evaluation metric actually g
 I would iterate further on the winning model (WeightedEnsemble_L2) and continue to tune hyperparameters. I'd identify which features provided the greatest predictive power and experiment with introducing new features that capture interactions between existing features.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+
 |model|hpo1|hpo2|hpo3|hpo4|score|
-|--|--|--|--|--|
+|---|---|---|---|---|---|
 |initial|None|None|None|None|1.79652|
 |add_features|None|None|None|None|1.18505|
 |hpo|GBM Leaves 13-26|GBM Leaves 26-66|GBM Leaves 66-100|GBM Leaves 100-200|0.57482|
+
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
