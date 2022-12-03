@@ -33,11 +33,11 @@ I would iterate further on the winning model (WeightedEnsemble_L2) and continue 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 
